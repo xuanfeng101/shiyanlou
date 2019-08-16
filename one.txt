@@ -1,2 +1,3 @@
 hello world
 my name is chenxian,welcome to guangzhou
+I like computer and linux,i want to get for a job about linux in guangzhou
